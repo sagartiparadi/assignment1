@@ -28,7 +28,7 @@ import com.ecommerce.helper.TypefaceSpan;
 import yalantis.com.sidemenu.util.ViewAnimator;
 
 
-public class MainActivity extends ActionBarActivity implements ViewAnimator.ViewAnimatorListener, View.OnClickListener {
+public class HomeActivity extends ActionBarActivity implements ViewAnimator.ViewAnimatorListener, View.OnClickListener {
     private DrawerLayout drawerLayout;
     private ActionBarDrawerToggle drawerToggle;
     private List<SlideMenuItem> list = new ArrayList<>();

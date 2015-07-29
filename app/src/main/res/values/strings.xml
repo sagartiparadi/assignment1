@@ -16,5 +16,9 @@
     <string name="title_activity_address">AddressActivity</string>
     <string name="title_activity_policy">PolicyActivity</string>
     <string name="title_activity_contact_us">ContactUs</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_product_detail">ProductDetailActivity</string>
+    <string name="title_activity_category_product_list">CategoryProductListActivity</string>
 
 </resources>
