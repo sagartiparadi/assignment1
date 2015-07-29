@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.0.4/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2d6391dc184742cc48f5dace770b4f5bfb45382b">
+        <dex dex="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/pre-dexed/debug/classes-caebb7f2a720ae9fb9477bdd949ec9c63206b6f5.jar" />
+    </item>
+    <item
+        jar="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/pre-dexed/debug/classes-8db377a0b3a63d21ba4895627264925c4eb655d9.jar" />
+    </item>
+    <item
+        jar="/home/sagar/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/pre-dexed/debug/picasso-2.3.2-23676755ff82044edf8f1fb324d75c32842c9491.jar" />
+    </item>
+    <item
+        jar="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/exploded-aar/com.yalantis/sidemenu/1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fa8b9fe429cf6dfae8b74673088ed0219bf0ca4a">
+        <dex dex="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/pre-dexed/debug/classes-90f1f25ce6d568124cb0a3cea6beacb0860b4687.jar" />
+    </item>
+    <item
+        jar="/home/sagar/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/pre-dexed/debug/library-2.4.0-b723d7e016c8e48f65e56c12d4e1e3a41ddc633e.jar" />
+    </item>
+    <item
+        jar="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/pre-dexed/debug/classes-04c93429cfe84d183d62fee1e1c913feedb9ed2e.jar" />
+    </item>
+    <item
+        jar="/home/sagar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-a59d26f16f9f067579907ae966c30445c5d6a91a.jar" />
+    </item>
+    <item
+        jar="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/pre-dexed/debug/classes-80876ef4ee32743824b8e510acde10bf54af3781.jar" />
+    </item>
+    <item
+        jar="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/sagar/Desktop/Side-Menu.Android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-577550c6a41363f6bd6a3b436ecdf3811aade3bf.jar" />
+    </item>
+
+</items>

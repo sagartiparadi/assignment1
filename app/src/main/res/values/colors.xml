@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3B2151</color>
+    <color name="secondary">#6B4091</color>
+    <color name="flash">#e91e63</color>
+    <color name="background">#121212</color>
+    <color name="block_background">#232524</color>
+    <color name="transparent">#80000000</color>
+    <color name="white">#fff</color>
+</resources>
